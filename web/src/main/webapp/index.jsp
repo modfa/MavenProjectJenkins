@@ -13,7 +13,7 @@
 <body>
   <h1>Super Simple Example Web Page</h1>
   <p>
-    I am learning it and loving it.
+    I am learning it and loving it.Learn more and more tools to make software development easier and smooth
   </p>
 </body>
 </html>
